@@ -1,0 +1,20 @@
+{
+  "latest": "1.0.1",
+  "url": "https://www.narrativenode.app/spotter",
+  "notes": "First release",
+  "notices": [
+    {
+      "id": "navigator",
+      "text": "Browse and scrub your video footage inside Premiere Pro.",
+      "label": "Try Navigator",
+      "url": "https://www.narrativenode.app/navigator"
+    },
+    {
+      "id": "next-plugin",
+      "text": "More Narrative Node plugins are on the way.",
+      "label": "Get notified",
+      "url": "https://www.narrativenode.app/#more",
+      "until": "2027-12-31"
+    }
+  ]
+}
